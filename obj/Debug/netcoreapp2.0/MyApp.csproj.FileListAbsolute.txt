@@ -1,0 +1,10 @@
+/Users/jackal/Desktop/MyApp/bin/Debug/netcoreapp2.0/MyApp.deps.json
+/Users/jackal/Desktop/MyApp/bin/Debug/netcoreapp2.0/MyApp.runtimeconfig.json
+/Users/jackal/Desktop/MyApp/bin/Debug/netcoreapp2.0/MyApp.runtimeconfig.dev.json
+/Users/jackal/Desktop/MyApp/bin/Debug/netcoreapp2.0/MyApp.dll
+/Users/jackal/Desktop/MyApp/bin/Debug/netcoreapp2.0/MyApp.pdb
+/Users/jackal/Desktop/MyApp/obj/Debug/netcoreapp2.0/MyApp.csproj.CoreCompileInputs.cache
+/Users/jackal/Desktop/MyApp/obj/Debug/netcoreapp2.0/MyApp.AssemblyInfoInputs.cache
+/Users/jackal/Desktop/MyApp/obj/Debug/netcoreapp2.0/MyApp.AssemblyInfo.cs
+/Users/jackal/Desktop/MyApp/obj/Debug/netcoreapp2.0/MyApp.dll
+/Users/jackal/Desktop/MyApp/obj/Debug/netcoreapp2.0/MyApp.pdb
